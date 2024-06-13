@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\bin\Debug\net8.0\HotelManagementSystemClassLibrary.deps.json
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\bin\Debug\net8.0\HotelManagementSystemClassLibrary.runtimeconfig.json
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\bin\Debug\net8.0\HotelManagementSystemClassLibrary.dll
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\bin\Debug\net8.0\HotelManagementSystemClassLibrary.pdb
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\obj\Debug\net8.0\HotelManagementSystemClassLibrary.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\obj\Debug\net8.0\HotelManagementSystemClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\obj\Debug\net8.0\HotelManagementSystemClassLibrary.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\obj\Debug\net8.0\HotelManagementSystemClassLibrary.AssemblyInfo.cs
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\obj\Debug\net8.0\HotelManagementSystemClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\obj\Debug\net8.0\HotelManagementSystemClassLibrary.dll
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\obj\Debug\net8.0\refint\HotelManagementSystemClassLibrary.dll
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\obj\Debug\net8.0\HotelManagementSystemClassLibrary.pdb
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\obj\Debug\net8.0\HotelManagementSystemClassLibrary.genruntimeconfig.cache
+C:\Users\PC\Desktop\KTPM-DH FPT\SEMESTER_5\PRN212\Assigment1\HotelManagementSystem\HotelManagementSystemClassLibrary\obj\Debug\net8.0\ref\HotelManagementSystemClassLibrary.dll

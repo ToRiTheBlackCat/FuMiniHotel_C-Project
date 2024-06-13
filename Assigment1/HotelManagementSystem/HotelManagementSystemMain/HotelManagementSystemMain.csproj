@@ -1,0 +1,148 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UseWPF>true</UseWPF>
+		<EnableDefaultPageItems>false</EnableDefaultPageItems>
+		<EnableDefaultCompileItems>false</EnableDefaultCompileItems>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <None Remove="ava.jfif" />
+	  <None Remove="FU HOTEL %281%29.png" />
+	  <None Remove="th %281%29.jfif" />
+	  <None Remove="th.jfif" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.6">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		
+	</ItemGroup>
+
+	<ItemGroup>
+		<!-- Include specific files manually -->
+		<Compile Include="AdminWindow.xaml.cs" />
+		<Compile Include="BookingHistoryWindow.xaml.cs" />
+		<Compile Include="CreateReportWindow.xaml.cs" />
+		<Compile Include="CustomerDetailWindow.xaml.cs" />
+		<Compile Include="LoginWindow.xaml.cs" />
+		<Compile Include="ManageCustomerWindow.xaml.cs" />
+		<Compile Include="ManageRoomWindow.xaml.cs" />
+		<Compile Include="RoomDetailWindow.xaml.cs" />
+		<Compile Include="UpdateProfileWindow.xaml.cs" />
+		<Page Include="LoginWindow.xaml">
+			<SubType>Designer</SubType>
+			<Generator>MSBuild:Compile</Generator>
+		</Page>
+		<!-- Add other files as needed -->
+		<Compile Include="MainWindow.xaml.cs" />
+		<Page Include="MainWindow.xaml">
+			<SubType>Designer</SubType>
+			<Generator>MSBuild:Compile</Generator>
+		</Page>
+		
+		<!-- Add other files as needed -->
+		<Compile Include="UpdateProfileWindow.xaml.cs" />
+		<Page Include="UpdateProfileWindow.xaml">
+			<SubType>Designer</SubType>
+			<Generator>MSBuild:Compile</Generator>
+		</Page>
+
+		<!-- Add other files as needed -->
+		<Compile Include="BookingHistoryWindow.xaml.cs" />
+		<Page Include="BookingHistoryWindow.xaml">
+			<SubType>Designer</SubType>
+			<Generator>MSBuild:Compile</Generator>
+		</Page>
+
+		<!-- Add other files as needed -->
+		<Compile Include="RoomDetailWindow.xaml.cs" />
+		<Page Include="RoomDetailWindow.xaml">
+			<SubType>Designer</SubType>
+			<Generator>MSBuild:Compile</Generator>
+		</Page>
+		
+		<!-- Add other files as needed -->
+		<Compile Include="AdminWindow.xaml.cs" />
+		<Page Include="AdminWindow.xaml">
+			<SubType>Designer</SubType>
+			<Generator>MSBuild:Compile</Generator>
+		</Page>
+		<!-- Add other files as needed -->
+		<Compile Include="ManageRoomWindow.xaml.cs" />
+		<Page Include="ManageRoomWindow.xaml">
+			<SubType>Designer</SubType>
+			<Generator>MSBuild:Compile</Generator>
+		</Page>
+		<!-- Add other files as needed -->
+		<Compile Include="ManageCustomerWindow.xaml.cs" />
+		<Page Include="ManageCustomerWindow.xaml">
+			<SubType>Designer</SubType>
+			<Generator>MSBuild:Compile</Generator>
+		</Page>
+		<!-- Add other files as needed -->
+		<Compile Include="CreateReportWindow.xaml.cs" />
+		<Page Include="CreateReportWindow.xaml">
+			<SubType>Designer</SubType>
+			<Generator>MSBuild:Compile</Generator>
+		</Page>
+		<!-- Add other files as needed -->
+		<Compile Include="CustomerDetailWindow.xaml.cs" />
+		<Page Include="CustomerDetailWindow.xaml">
+			<SubType>Designer</SubType>
+			<Generator>MSBuild:Compile</Generator>
+		</Page>
+		
+	</ItemGroup>
+	
+	
+	<ItemGroup>
+		<ProjectReference Include="..\HotelManagementSystemClassLibrary\HotelManagementSystemClassLibrary.csproj">
+			<Private>True</Private>
+		</ProjectReference>
+	</ItemGroup>
+	
+	
+	<ItemGroup>
+	  <Resource Include="ava.jfif" />
+	  <Resource Include="FU HOTEL (1).png" />
+	  <Resource Include="th (1).jfif" />
+	  <Resource Include="th.jfif" />
+	</ItemGroup>
+	
+	
+	<ItemGroup>
+	  <None Update="AdminWindow.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	  <None Update="BookingHistoryWindow.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	  <None Update="CreateReportWindow.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	  <None Update="CustomerDetailWindow.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	  <None Update="ManageCustomerWindow.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	  <None Update="ManageRoomWindow.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	  <None Update="RoomDetailWindow.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	  <None Update="UpdateProfileWindow.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </None>
+	</ItemGroup>
+
+</Project>

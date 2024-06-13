@@ -1,0 +1,19 @@
+﻿<Window x:Class="HotelManagementSystemMain.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HotelManagementSystemMain"
+        mc:Ignorable="d"
+        Title="AdminWindow" Height="450" Width="800">
+    <Grid>
+        <Grid HorizontalAlignment="Center" Height="90" VerticalAlignment="Top" Width="800" Background="#FFFFB265">
+            <Label x:Name="lbAdmin" Content="ADMIN PAGE" HorizontalAlignment="Center" Height="70" VerticalAlignment="Center" Width="284" FontSize="40" Foreground="White"/>
+        </Grid>
+        <Button x:Name="btnManageRoomInfo" Content="Manage Room Information" HorizontalAlignment="Center" Height="43" Margin="0,117,0,0" VerticalAlignment="Top" Width="704" Background="#FF9FBF9D" FontSize="24" Foreground="White" Click="btnManageRoomInfo_Click"/>
+        <Button x:Name="btnManageCustomerInfo" Content="Manage Customer Information" HorizontalAlignment="Center" Height="43" VerticalAlignment="Top" Width="704" Background="#FF9FBF9D" FontSize="24" Foreground="White" Click="btnManageCustomerInfo_Click" Margin="0,206,0,0"/>
+        <Button x:Name="btnCreateReport" Content="Create Report Statistic" HorizontalAlignment="Center" Height="43" Margin="0,296,0,0" VerticalAlignment="Top" Width="704" Background="#FF9FBF9D" FontSize="24" Foreground="White" Click="btnCreateReport_Click"/>
+        <Button x:Name="btnLogout" Content="LOGOUT" HorizontalAlignment="Center" Height="46" Margin="0,354,0,0" VerticalAlignment="Top" Width="152" Background="#FFFF7777" FontSize="16" Foreground="White" Click="btnLogout_Click"/>
+
+    </Grid>
+</Window>

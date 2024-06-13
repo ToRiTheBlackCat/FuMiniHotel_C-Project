@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AdminWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="BookingHistoryWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CreateReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="CustomerDetailWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LoginWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageCustomerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageRoomWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RoomDetailWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="UpdateProfileWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="AdminWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="BookingHistoryWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="CreateReportWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="CustomerDetailWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ManageCustomerWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="ManageRoomWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="RoomDetailWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="UpdateProfileWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

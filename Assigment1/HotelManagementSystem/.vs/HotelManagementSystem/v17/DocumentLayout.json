@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE7DE1C-4997-450A-AD40-EF8939090353}|HotelManagementSystemMain\\HotelManagementSystemMain.csproj|c:\\users\\pc\\desktop\\ktpm-dh fpt\\semester_5\\prn212\\assigment1\\hotelmanagementsystem\\hotelmanagementsystemmain\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CE7DE1C-4997-450A-AD40-EF8939090353}|HotelManagementSystemMain\\HotelManagementSystemMain.csproj|solutionrelative:hotelmanagementsystemmain\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE7DE1C-4997-450A-AD40-EF8939090353}|HotelManagementSystemMain\\HotelManagementSystemMain.csproj|c:\\users\\pc\\desktop\\ktpm-dh fpt\\semester_5\\prn212\\assigment1\\hotelmanagementsystem\\hotelmanagementsystemmain\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE7DE1C-4997-450A-AD40-EF8939090353}|HotelManagementSystemMain\\HotelManagementSystemMain.csproj|solutionrelative:hotelmanagementsystemmain\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE7DE1C-4997-450A-AD40-EF8939090353}|HotelManagementSystemMain\\HotelManagementSystemMain.csproj|c:\\users\\pc\\desktop\\ktpm-dh fpt\\semester_5\\prn212\\assigment1\\hotelmanagementsystem\\hotelmanagementsystemmain\\createreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE7DE1C-4997-450A-AD40-EF8939090353}|HotelManagementSystemMain\\HotelManagementSystemMain.csproj|solutionrelative:hotelmanagementsystemmain\\createreportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE7DE1C-4997-450A-AD40-EF8939090353}|HotelManagementSystemMain\\HotelManagementSystemMain.csproj|c:\\users\\pc\\desktop\\ktpm-dh fpt\\semester_5\\prn212\\assigment1\\hotelmanagementsystem\\hotelmanagementsystemmain\\createreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CE7DE1C-4997-450A-AD40-EF8939090353}|HotelManagementSystemMain\\HotelManagementSystemMain.csproj|solutionrelative:hotelmanagementsystemmain\\createreportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE7DE1C-4997-450A-AD40-EF8939090353}|HotelManagementSystemMain\\HotelManagementSystemMain.csproj|c:\\users\\pc\\desktop\\ktpm-dh fpt\\semester_5\\prn212\\assigment1\\hotelmanagementsystem\\hotelmanagementsystemmain\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CE7DE1C-4997-450A-AD40-EF8939090353}|HotelManagementSystemMain\\HotelManagementSystemMain.csproj|solutionrelative:hotelmanagementsystemmain\\managecustomerwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:43:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:44:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\HotelManagementSystemMain\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystemMain\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\HotelManagementSystemMain\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "HotelManagementSystemMain\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAqwKYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:31:56.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\HotelManagementSystemMain\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "HotelManagementSystemMain\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\HotelManagementSystemMain\\LoginWindow.xaml",
+              "RelativeToolTip": "HotelManagementSystemMain\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T16:30:42.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateReportWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\HotelManagementSystemMain\\CreateReportWindow.xaml",
+              "RelativeDocumentMoniker": "HotelManagementSystemMain\\CreateReportWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\HotelManagementSystemMain\\CreateReportWindow.xaml",
+              "RelativeToolTip": "HotelManagementSystemMain\\CreateReportWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T16:07:23.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateReportWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\HotelManagementSystemMain\\CreateReportWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystemMain\\CreateReportWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\HotelManagementSystemMain\\CreateReportWindow.xaml.cs",
+              "RelativeToolTip": "HotelManagementSystemMain\\CreateReportWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvxwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:07:05.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageCustomerWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\HotelManagementSystemMain\\ManageCustomerWindow.xaml",
+              "RelativeDocumentMoniker": "HotelManagementSystemMain\\ManageCustomerWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\KTPM-DH FPT\\SEMESTER_5\\PRN212\\Assigment1\\HotelManagementSystem\\HotelManagementSystemMain\\ManageCustomerWindow.xaml",
+              "RelativeToolTip": "HotelManagementSystemMain\\ManageCustomerWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T16:08:58.581Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
